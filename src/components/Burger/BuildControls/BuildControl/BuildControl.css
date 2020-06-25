@@ -1,0 +1,15 @@
+.BuildControl {
+    display: flex;
+    justify-content: space-between;
+    margin: 7px;
+    float: right;
+    margin-right: 20px;
+}
+
+.Label {
+    float: left;
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
