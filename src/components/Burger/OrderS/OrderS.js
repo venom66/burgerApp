@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from 'react-bootstrap/Button';
 
 import Aux from '../../../hoc/Aux';
 
@@ -16,6 +17,8 @@ const orderS = (props) => {
                 {ingredientSummary}
             </ul>
             <p>Checkout</p>
+            <Button>Cancel</Button>
+            <Button>OK</Button>
         </Aux>
     )
 }
