@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Ux';
 
 const orderS = (props) => {
     const ingredientSummary = Object.keys(props.ingredients)

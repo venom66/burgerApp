@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-expressions */
 import React from 'react';
 import './Modal.css'
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Ux';
 import Backdrop from '../Backdop/Backdrop';
 
 const modal = (props) => (
